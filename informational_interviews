@@ -1,0 +1,39 @@
+Aria works at Tableau as a lead member of the Technical Staff. Some of the main points she shared: 
+
+Managers at companies like this understand that they will have to train and guide new hires for awhile after they start, but they’d rather not train on more basic concepts. They’d rather be training on a specific company algorithm or something along those lines. 
+
+Sometimes for an interview they’ll have the candidate design a pizza delivery app (not build it all out, just cover the basics of how it would work). They’ve also done a thing where they give the candidate a long and extremely messy piece of Python code and ask what’s wrong with it. If they don’t see anything that might be alright, they go over what the company engineers think is wrong with it, and they judge how the candidate responds. With incisive questions or smiling and nodding?
+
+Entry level people at the company tend to work in specific areas and with advancement comes working in broader areas. She mentioned that at Facebook, at least at one point, hires just from one job posting and the people they hire work in different areas for awhile before eventually settling into something after figuring out what they like/are best at.
+
+She advised tailoring resumés to specific jobs.
+________________________________________________
+
+Diptanu works at Facebook, and he’s kind of a high level coder and I knew going into this that he might go over my head a bit, and that did happen some, but it was a good talk that I took a lot of general thoughts from that I found helpful. 
+
+He talked about how in computer science there are two spectrums. On one end, everything is very certain and set, which is where I’d be starting (not entirely sure now if he meant starting in tech generally or starting on a task). Then on the other end things are less certain and more fluid, and you end up migrating towards that end as you go. 
+
+Right now he’s working in AI, which he switched to after doing work with clusters (I don’t really understand it) at Netflix and a startup. He felt like he had done everything he could do in his old role, and working in AI satisfies his intellectual curiosity because there’s always something new. 
+
+Things he looks for in people when hiring - can the person complete a task in a particular technology that has certain requirements. So a focus on problem solving. When talking about that he mentioned it would be good to be really good at a particular thing you can point to. 
+
+He talked about how the course I’m doing is fast moving and I’m working on problems that were beyond him when he was at my stage. He reminded me that even top people have to struggle through figuring out how to do things and get things working, so don’t let it be discouraging. 
+
+He focused on the joy of getting something working, how this stuff is hard and problem solving feels great. 
+
+He told me to remember that what you start off doing doesn’t have to be a forever thing. You can do it for a year, and if you don’t like it, start talking to people.
+__________________________________________
+
+Eric - Kyruus
+
+Everything Kyruus does is in the cloud so the 3 main cloud providers (Amazon, Google, Microsoft) are very important. Knowing a scripting language is huge as well. There are code tools for infrastructure that they use a lot of that take the manual work of setting up infrastructure and lets you manage it with Git (Git is also very important). Working with Terminal is also important. 
+
+Similar to Diptanu he talked a lot about how his work is problem solving, meaning that there is a result you want and a certain set of rules to abide by, but how you get there is ambiguous and up to you. 
+
+He stressed the importance of the “science being repeatable” thing that he learned in science courses in school. With his work now, that means having excellent documentation so other people can use what you’ve written. 
+
+He has found that DevOps is where a lot of “non-traditional” computer people end up. He started out interpreting data, and that led to helping with infrastructure. 
+
+#1 thing a person looking for a job in DevOps would need outside of the basic tech stuff is a love of learning, since infrastructure ends up covering so many responsibilities. He talked about loving the feeling of using a new tool he learned about online and getting it to work, more so when it makes his life easier, and the best when he can implement it in a way that’s useful for others. 
+
+For entry level, rolling with the punches is very important because you end up dealing with issues no one else wants to.  
